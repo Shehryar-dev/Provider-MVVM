@@ -1,0 +1,31 @@
+MVVM Login steps
+
+1st 
+project koo mvvm k hissab se setup kiya jis mei meine ye folder create kiye lib folder mei
+
+1 data
+2 model
+3 res
+4 repository
+5 utils 
+6 view
+7 viewmodel
+
+1 data folder 
+
+yaha mei ne 2 file create kii 1 app_exception kiii or 2 folder create kiye.
+
+* app_exception is file mei app k exceptions koo achy se manage kiya...
+
+folder: 
+1 network
+2 response
+
+1 network: iss folder mei meine 2 files create kii 1 baseApiService or 2 networkApiService 
+* first file baseApiService mei meine abstract future method banaye 2, 1st getGetApiResponse or 
+2nd getPostApiResponse 
+
+* second file networkApiService mei ne iss file ki class koo extend kiya baseApiService class se
+or phir baseApiService iss file k method koo override kiya or api handle krne k function likh 
+
+
