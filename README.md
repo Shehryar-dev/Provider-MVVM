@@ -1,6 +1,6 @@
 # mvvm
 
-models view viewmodels architecture
+model view viewmodel architecture
 
 ## Getting Started
 
